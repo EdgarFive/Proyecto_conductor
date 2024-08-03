@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lab_en_clase_proyecto2_Conductor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lab_en_clase_proyecto2_Conductor_jar</output-path>
+    <root id="archive" name="lab_en_clase_proyecto2_Conductor.jar">
+      <element id="module-output" name="lab_en_clase_proyecto2_Conductor" />
+    </root>
+  </artifact>
+</component>
